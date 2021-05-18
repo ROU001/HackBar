@@ -35,13 +35,11 @@ HackBar is a security audit tool that will enable you to pentest websites more e
 
 <b>Steps</b>:
 
- 1. git clone https://github.com/PhHitachi/HackBar.git
+ 1. git clone https://github.com/ROU001/HackBar.git
  2. cd HackBar/test `this open source you are available to modify the code`
  
     `Compressing Hackbar as addons`
  3. `7z a hackbar.xpi *` 
-
-![](https://github.com/PhHitachi/Hackbar/blob/master/img/compress.png)
 
  <b>NOTE:</b> if you are windows and and you face this error in step 3:
 
